@@ -37,7 +37,11 @@ Copie la URL e ingrese al segundo host usando el siguiente comando
 Pegue este comando y revise en Rancher, ahora debería existir un nuevo nodo.
 
 ![Nuevo Host](images/added_host.png)
+
 ## Requerimientos
+
 2Gb de RAM Libres
-[Virtualbox]()
-[Vagrant]()
+
+[Virtualbox](https://www.virtualbox.org/)
+
+[Vagrant](https://www.vagrantup.com/)
